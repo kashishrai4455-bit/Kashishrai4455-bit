@@ -1,6 +1,6 @@
 # Hi, I'm Kashish Rai👋
 
-## 🎯 Aspiring Data Analyst
+## 🎯 Aspiring Data Analyst & Data Scientist
 
 I am passionate about turning raw data into meaningful insights. I enjoy solving business problems using Python, SQL, Excel, and Power BI. Currently, I am building real-world projects to strengthen my skills in Data Analytics and Data Science.
 
