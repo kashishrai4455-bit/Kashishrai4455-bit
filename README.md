@@ -109,20 +109,22 @@
 </p>
 
 ---
-
-## 📊 GitHub Statistics
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kashishrai4455-bit&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashishrai4455-bit&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kashishrai4455-bit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="75%" />
 </p>
 
----
-
-## 🔥 GitHub Contribution Streak
+<br/>
 
 <p align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=kashishrai4455-bit&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=kashishrai4455-bit&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="85%" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kashishrai4455-bit&theme=tokyonight" width="75%" />
 </p>
 
 ---
