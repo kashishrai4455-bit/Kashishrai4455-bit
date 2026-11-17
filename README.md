@@ -109,11 +109,13 @@
 </p>
 
 ---
+
 <h2 align="center">📊 GitHub Statistics</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kashishrai4455-bit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="75%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/cards.dark.svg" />
+  <img src="./assets/cards.light.svg" alt="GitHub Statistics, Contribution Streak and Most Used Languages" width="100%" />
+</picture>
 
 <br/>
 
