@@ -1,4 +1,3 @@
-
 <h1 align="center">💙 Hi, I'm Kashish Rai</h1>
 
 <h3 align="center">
@@ -26,77 +25,8 @@
 - 🎯 Open to Data Science and AI/ML internship opportunities.
 
 ---
-
-## 💻 Programming Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-3776AB?style=for-the-badge" />
-</p>
-
----
-
-## 🛠️ Tools & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=jupyter,vscode,git,github,mysql,python&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</p>
-
----
-
-## 📚 Data Science & Python Libraries
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-</p>
-
----
-
-## 🤖 Machine Learning Techniques
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Supervised%20Learning-2F81F7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Unsupervised%20Learning-8957E5?style=for-the-badge" />
-</p>
-
-**Regression Algorithms**
-- Linear Regression
-- Multiple Linear Regression
-- Polynomial Regression
-- Logistic Regression
-
-**Classification Algorithms**
-- Decision Tree
-- Random Forest
-- Naive Bayes
-- Support Vector Machine (SVM)
-- K-Nearest Neighbors (KNN)
-
-**Clustering Algorithms**
-- K-Means Clustering
-- Hierarchical Clustering
-
-**Other Concepts**
-- Model Training & Prediction
-- Data Preprocessing
-- Feature Engineering
-- Model Evaluation
-- Accuracy, Precision, Recall & F1-Score
-- Mean Squared Error (MSE)
-
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=seaborn&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ---
 
 ## 🌱 Currently Learning
